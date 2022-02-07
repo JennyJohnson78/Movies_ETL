@@ -64,7 +64,11 @@ Sample DataFrame:
 
 ### Extract and Transform the Wikipedia Data
 
+See ETL_clean_wiki_movies.ipynb
+
 ### Extract and Transform the Kaggle data
+
+See ETL_clean_kaggle_data.ipynb
 
 ### Create the Movie Database
 
