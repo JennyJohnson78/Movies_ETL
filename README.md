@@ -72,4 +72,6 @@ See ETL_clean_kaggle_data.ipynb
 
 ### Create the Movie Database
 
+See ETL_create_database.ipynb
+
 ## Summary
