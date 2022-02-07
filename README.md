@@ -59,6 +59,7 @@ ratings = ratings_file
 ```
 
 Sample DataFrame:
+
 ![image](https://user-images.githubusercontent.com/67409852/152742511-f8310f0e-dc18-4ffe-9ef5-629a105c89a9.png)
 
 ### Extract and Transform the Wikipedia Data
