@@ -74,4 +74,10 @@ See ETL_clean_kaggle_data.ipynb
 
 See ETL_create_database.ipynb
 
+Sample DataFrame:
+
+![image](https://user-images.githubusercontent.com/67409852/152747393-859c6fda-c70b-421a-80af-71bb0cce996f.png)
+
 ## Summary
+
+ETL is an integral part of data integration and important in data analytics, data science, and computing. Having a clear pipeline by which to extract, transform, and load data ensures reliable and credible data analysis.
